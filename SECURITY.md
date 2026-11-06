@@ -1,1 +1,1 @@
-security policy (develop)
+security policy (release/2.45)

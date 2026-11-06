@@ -6,4 +6,6 @@ body:
     attributes:
       label: Version
       options:
+        - "3.0.1"
+        - "2.45.3"
         - "2.44.0"
