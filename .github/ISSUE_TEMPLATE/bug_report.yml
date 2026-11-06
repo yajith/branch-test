@@ -1,0 +1,9 @@
+name: Bug report
+description: test
+body:
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      options:
+        - "2.44.0"
